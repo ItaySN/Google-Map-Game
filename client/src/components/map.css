@@ -1,0 +1,10 @@
+.scoring{
+    margin:8vh 0 0 21vw ;
+    position: fixed;
+    height: 30vh;
+    width: 20vw;
+    color:white;
+    /* background-color: rgb(24, 24, 48); */
+    border: 3px solid black;
+    box-shadow: 1px 1px 0 0  gray;
+}
